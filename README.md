@@ -1,7 +1,7 @@
 AI Agents Security Risk Assessment – ABSA Scenario (Case Study)
 Overview
 
-This project presents a cybersecurity and risk assessment of AI agents deployed within a financial services environment inspired by ABSA operations in South Africa.
+This project presents a cybersecurity and risk assessment of AI agents deployed within a financial services environment inspired by ABSA operations in South Africa that was done as part of the Southern Africa - Netherlands Cyber Security School (SANCS ) DataSync-Cybersecurity-Challenge.
 
 As financial institutions adopt AI to automate processes and enhance decision-making, new security risks emerge. This case study evaluates how poorly governed AI agents can introduce vulnerabilities, particularly in highly regulated environments like banking.
 
@@ -69,6 +69,11 @@ Translating technical risks into business impact
 
 Project Value
 This project demonstrates the importance of securing AI systems in banking environments. It highlights how poor governance can expose institutions to serious financial and regulatory risks, and how structured remediation can ensure safe and responsible AI adoption.
+Presentation Video
+
+This video provides a concise overview of the identified security risks, risk prioritisation, and a practical 90-day remediation strategy within the ABSA-inspired financial scenario.
+
+🔗 [Insert your video link here]
 
 Author
 Samukelisiwe Portia Nkosi
